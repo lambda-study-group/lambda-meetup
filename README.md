@@ -1,9 +1,22 @@
-## Lambda Meetup SP
+# Lambda Meetup SP
+
+## Live - Sabado Funcional 20/06/2020
+- TODO-MVC com Clojure Fullstack - Ian Fernandez
+- Desenvolvendo API's de Grafo com pathom - Enzzo Cavallo
+- Desmistificando tipos dependentes e provas formais - Victor Maia
+
+**Local**: Hash 
+**Streaming**: https://www.twitch.tv/lambdaio
 
 ## Desenvolvimento Web Funcional - Reagent(React + CLJS) e Web Haskell com Yesod 05/04/2020
+- Reagent(React + CLJS) - Ian Fernandez
+- Web Haskell - Romulo Garofalo
 **Local**: Hash 
 
+**Streaming**: https://www.twitch.tv/lambdaio
+
 ## Workshop A Trindade ReasonML, React e GraphQL
+- A Trindade ReasonML, React e GraphQL - "Tornando estados inválidos impossíveis". - fakenickels
 **Local**: Hash 
 
 **Streaming**: https://www.youtube.com/watch?v=I_wZ_nsWld8
