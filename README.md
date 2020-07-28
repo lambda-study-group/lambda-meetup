@@ -2,8 +2,12 @@
 
 ## Live - Sabado Funcional 20/06/2020
 - TODO-MVC com Clojure Fullstack - Ian Fernandez
+  - [Video](https://youtu.be/TPRczpkFjMw)
 - Desenvolvendo API's de Grafo com pathom - Enzzo Cavallo
+  - [Video](https://www.youtube.com/watch?v=M7kXoU-ZhJk&t=463s)
 - Desmistificando tipos dependentes e provas formais - Victor Maia
+  - [Video](https://www.youtube.com/watch?v=l4_psfnKiVk&t=1s)
+
 
 **Local**: Hash 
 **Streaming**: https://www.twitch.tv/lambdaio
