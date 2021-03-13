@@ -1,5 +1,14 @@
 # Lambda Meetup SP
 
+## Live - Setembro Funcional 12/07/2020
+- Como Elixir me tornou uma melhor programadora Java - Juliana Helena
+  - [Video](https://youtu.be/T-iE9wx8nfA)
+- A Essência do Lisp - Sophia Velten
+  - [Video](https://youtu.be/j3FEFuoVN5c)
+- Lentes: Referências funcionais do zero - Pedro Castilho
+  - [Video](https://www.youtube.com/watch?v=l4_psfnKiVk&t=1s)
+
+
 ## Live - Sabado Funcional 20/06/2020
 - TODO-MVC com Clojure Fullstack - Ian Fernandez
   - [Video](https://youtu.be/TPRczpkFjMw)
